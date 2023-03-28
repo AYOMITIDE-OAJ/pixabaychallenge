@@ -3,7 +3,7 @@ Pixabay App built with Kotlin, Clean Architecture using MVVM
 
 ** Challenge Link Here **: [https://bit.ly/pixabaychallenge](https://bit.ly/pixabaychallenge)
 
-# Main Features
+# Main Dependencies
 1. Kotlin
 1. MVVM
 1. Jetpack Compose
